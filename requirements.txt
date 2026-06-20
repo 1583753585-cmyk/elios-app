@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+pydantic
+json-repair
+sentence-transformers
+faiss-cpu
+numpy
