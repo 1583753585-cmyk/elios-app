@@ -6,4 +6,3 @@ json-repair
 sentence-transformers
 faiss-cpu
 numpy
-python-3.11.0
